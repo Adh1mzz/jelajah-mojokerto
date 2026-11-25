@@ -129,7 +129,7 @@ const List<Destinasi> daftarDestinasiMojokerto = [
     deskripsi:
         'Ikon kuliner legendaris Kota Mojokerto sejak tahun 1929. Menyajikan onde-onde hangat bertekstur renyah di luar dan lembut di dalam dengan isian kacang hijau kupas pilihan yang manis gurih.',
     gambarUrl:
-        'https://assets-a1.kompasiana.com/items/album/2016/03/30/bo-liem-1-56fb71e5d693737107d1bb73.jpg?t=o&v=770',
+        'https://tic.mojokertokota.go.id/storage/uploads/images/kuliner/657093175f2ca-9ac8e529-bd45-4b45-ac2e-61f6986690808911.png',
     kategori: KategoriWisata.kuliner,
     hargaTiket: 0, // Gratis masuk gerai kuliner
     rating: 4.8,
