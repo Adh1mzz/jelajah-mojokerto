@@ -129,7 +129,7 @@ const List<Destinasi> daftarDestinasiMojokerto = [
     deskripsi:
         'Salah 1 kuliner legendaris di Mojokerto yaitu Warung Sate Pak Djamil. Apapun makanannya.',
     gambarUrl:
-        'https://tic.mojokertokota.go.id/storage/uploads/images/kuliner/657093175f2ca-9ac8e529-bd44-4b45-ac2e-61f6986690808801.png',
+        'https://i.ytimg.com/vi/GES6_iYsIys/maxresdefault.jpg',
     kategori: KategoriWisata.kuliner,
     hargaTiket: 0, // Gratis masuk gerai kuliner
     rating: 4.8,
