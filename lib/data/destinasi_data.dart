@@ -124,22 +124,22 @@ const List<Destinasi> daftarDestinasiMojokerto = [
   // Kategori: Kuliner (2 destinasi)
   Destinasi(
     id: 'dst_09',
-    nama: 'Sentra Onde-Onde Bo Liem',
+    nama: 'WARUNG SATE PAK DJAMIL',
     lokasi: 'Kec. Magersari',
     deskripsi:
-        'Ikon kuliner legendaris Kota Mojokerto sejak tahun 1929. Menyajikan onde-onde hangat bertekstur renyah di luar dan lembut di dalam dengan isian kacang hijau kupas pilihan yang manis gurih.',
+        'Salah 1 kuliner legendaris di Mojokerto yaitu Warung Sate Pak Djamil. Apapun makanannya.',
     gambarUrl:
-        'https://assets.kompasiana.com/items/album/2016/03/30/bo-liem-1-56fb71e5d693737107d1bb73.jpg?t=o&v=770',
+        'https://tic.mojokertokota.go.id/storage/uploads/images/kuliner/657093175f2ca-9ac8e529-bd44-4b45-ac2e-61f6986690808801.png',
     kategori: KategoriWisata.kuliner,
     hargaTiket: 0, // Gratis masuk gerai kuliner
     rating: 4.8,
     fasilitas: [
       'Parkir',
       'Ruang Tunggu',
-      'Pembayaran Non-Tunai',
-      'Box Oleh-oleh'
+      'Pembayaran Tunai dan Non-Tunai',
+      'Makan di tempat, take away'
     ],
-    jamBuka: '06.00 - 21.00',
+    jamBuka: '08.00 - 14.00',
   ),
   Destinasi(
     id: 'dst_10',
